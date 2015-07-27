@@ -20,9 +20,7 @@
     self.view.backgroundColor=[UIColor blueColor];
      self.view.backgroundColor=[UIColor blueColor];
      self.view.backgroundColor=[UIColor blueColor];
-    
     UIButton *btn=[[UIButton alloc]init];
-    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
